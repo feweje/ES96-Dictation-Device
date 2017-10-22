@@ -1,0 +1,5 @@
+Height, 120 cm
+Weight, 36 kg
+Temperature, 37 C
+Heart rate, 60 bpm
+Breathing rate, 15 breaths/min
